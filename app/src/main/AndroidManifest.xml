@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".SecondActivity" />
-        <activity android:name=".BMIActivity"></activity>
+        <activity android:name=".BMIActivity" />
+        <activity android:name=".HoroscopeActivity"></activity>
     </application>
 
 </manifest>
